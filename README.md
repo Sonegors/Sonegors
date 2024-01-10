@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=Oi!,+Meu+nome+é+Juliano+Sonego;Sou+Estudante+de+Engenharia+de+Software;Seja+Bem+Vindo!)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sonegors&bg_color=0d1117&color=32CD32&line=32CD32&point=32CD32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
